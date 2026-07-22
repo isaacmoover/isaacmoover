@@ -1,14 +1,15 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Cal+Sans&size=30&pause=1000&color=F78A13&width=435&lines=Ol%C3%A1%2C+Seja+Bem+Vindo!)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=35&duration=3000&pause=11000&color=1380F7&width=435&lines=Movecta)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1800&color=1380F7&width=435&lines=Desenvolvedor+de+Automação)](https://git.io/typing-svg)
 
 
 </div>
 
 ## 👨🏾‍💻 Isaac Loiola
 
-**Desenvolvedor FullStack**
+**Desenvolvedor**
 
 **Me chamo Isaac Oliveira Loiola, tenho 18 anos e moro em São Paulo.  <br/>
-Sou desenvolvedor Full Stack apaixonado por tecnologia, estou sempre buscando <br/>
+Sou desenvolvedor de automação na Movecta, apaixonado por tecnologia, estou sempre buscando <br/>
 evoluir minhas habilidades para criar soluções. <br/>**
 
 ---
