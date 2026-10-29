@@ -9,8 +9,7 @@
 **Desenvolvedor**
 
 **Me chamo Isaac Oliveira Loiola, tenho 18 anos e moro em São Paulo.  <br/>
-Sou desenvolvedor de automação na Movecta, apaixonado por tecnologia, estou sempre buscando <br/>
-evoluir minhas habilidades para criar soluções. <br/>**
+Sou desenvolvedor de automação na Movecta, apaixonado por tecnologia.
 
 ---
 
